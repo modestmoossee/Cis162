@@ -1,0 +1,28 @@
+
+    /* HTML and Body Styles */
+body {
+color: rgb(169,50,38);
+background-color: azure;
+font-family: Verdana, Geneva, sans-serif;
+}
+/* Heading Styles */
+header{color:mediumvioletred}
+h1{color:darkgreen;
+    background-color:skyblue; 
+}
+h2 {color:rebeccapurple;}
+h3 {color:darkblue}
+/* Navigation Styles */	
+nav {
+    font-size:0.8em;}
+nav > ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;}
+
+    /* Section Styles */	
+section{background-color:peachpuff;
+        width:90%;
+        font-size:1em;}
+/* Footer Styles */
+footer{background-color:skyblue;}
